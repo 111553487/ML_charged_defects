@@ -1,0 +1,6 @@
+{
+  "num_atom_features": 92,
+  "num_bond_features": 15,
+  "bond_cutoff_radius": 8.0,
+  "bond_max_num_neighbors": 12
+}
