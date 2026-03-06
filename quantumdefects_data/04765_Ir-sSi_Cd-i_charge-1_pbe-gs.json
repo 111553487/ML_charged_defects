@@ -1,0 +1,62 @@
+{
+  "defect_info": {
+    "did": 4765,
+    "dnum": "4769",
+    "shortname": "Ir-sSi_Cd-i",
+    "fullname": "004769_Ir-sSi_Cd-i",
+    "folder": "004769",
+    "host": "silicon",
+    "nAtoms": 2,
+    "atomTypes": "2*undefined(s)",
+    "struct": [
+      {
+        "esym": "Ir",
+        "eid": 77,
+        "dpos": 83,
+        "egrp": 1,
+        "eremoved": 14
+      },
+      {
+        "esym": "Cd",
+        "eid": 48,
+        "dpos": 73,
+        "egrp": 2,
+        "eremoved": null
+      }
+    ]
+  },
+  "charge_state": {
+    "cid": 23823,
+    "charge": -1,
+    "charge_folder": "-1",
+    "sid": 29421,
+    "sname": "pbe-gs",
+    "poscar_path": "004769/-1/004769_pbe-gs_POSCAR",
+    "defect_total_energy": -1161.7803924,
+    "defect_energy_convergence": 3.518835e-09,
+    "defect_fermi_energy": 6.4936029997,
+    "defect_vbm_energy": 6.4727,
+    "defect_cbm_energy": 6.5145,
+    "defect_cbm-vbm_energy": 0.04180000000000028,
+    "defect_spin_state": 2,
+    "defect_dos_at_fermi_energy": 0.03205390495061026,
+    "defect_dos_at_vbm_energy": 0.020003790963305,
+    "defect_dos_at_cbm_energy": 0.11542807288135604,
+    "defect_electron_affinity": 6.500809639999943,
+    "defect_ionization_energy": 6.486188459999994,
+    "defect_initial_pbe_deltaR": 0.0018829204789313277,
+    "defect_initial_pbe_deltaQ": 0.058970924987494705,
+    "defect_electron_addition_deltaR": 2.309904754256071e-05,
+    "defect_electron_addition_deltaQ": 0.0006580110497580173,
+    "defect_electron_removal_deltaR": 2.6278365601691484e-05,
+    "defect_electron_removal_deltaQ": 0.0007568284928232577,
+    "param_NBANDS": 656,
+    "param_NELECT": 882,
+    "param_ENCUT": 300,
+    "param_ISMEAR": 0,
+    "param_SIGMA": 0.01,
+    "param_EDIFF": -0.01,
+    "param_IBRION": 2,
+    "param_EDIFFG": -0.01
+  }
+}
